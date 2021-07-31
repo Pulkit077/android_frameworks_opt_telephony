@@ -31,6 +31,8 @@ import com.android.internal.telephony.Phone;
 import com.android.internal.telephony.PhoneConstants;
 import com.android.internal.telephony.dataconnection.ApnContext;
 import com.android.internal.telephony.dataconnection.DcTracker;
+import com.android.internal.telephony.PhoneConstants;
+import android.text.TextUtils;
 
 import java.util.HashSet;
 import java.util.Iterator;
